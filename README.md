@@ -1,7 +1,5 @@
 # fitness_tracker
 
-  # README_Generator
-
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
